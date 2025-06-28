@@ -1,4 +1,4 @@
-# StickMan-Ai
+# Spaceman-Ai
 
 Basit bir Stick Man oyunu örneği. Python ve [Pygame](https://www.pygame.org/) kullanarak geliştirilmiştir.
 
@@ -11,7 +11,7 @@ pip install pygame
 ## Çalıştırma
 
 ```bash
-python -m stickman.main
+python -m spaceman.main
 ```
 
 ## Özellikler
